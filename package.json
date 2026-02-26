@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-backend",
+  "name": "task-manager-backkend",
   "version": "1.0.0",
   "main": "dist/server.js",
  "scripts": {
